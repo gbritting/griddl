@@ -1,0 +1,33 @@
+----------------------------------
+Ideas, next feature sets and bugs
+----------------------------------
+
+Todo
+-----
+* concisely organized demos and a documentation page
+* document browser support
+* fix up headers with ellipses and white-space, overflow
+* settings - doc which can be changed, which can't once the grid is loaded. use internal
+    structure to hold instead of relying on passed in settings object
+* shouldn't need selectableRows to set keyField
+* packagers
+
+Ideas
+------
+* customize item/model name
+* option to show empty rows or not
+* remove jQuery dependency
+* allow custom per page options [10,20,30]
+* per column searcher not just one for whole grid
+* ajax demo
+* determine if a browser supports n-th child so we don't need to spit out gdl-col-N classes
+* should we add custom formatters to griddl.formatter instead of adding to column? Then assign formatter 'name' to column
+     this will promote reuse of formattes but is it necessary?
+* Should columns always start at asc when you first sort? Use case; sort a col, then sort another, then go back to original
+
+Potential Road map
+--------------------
+* 1.0.0 Initial release
+* 1.1.0 incorporate search in ui
+* 1.2.0 per column searching
+* 1.?.0 remove jQuery dependency

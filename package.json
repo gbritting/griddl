@@ -1,0 +1,28 @@
+{
+  "name": "griddl",
+  "version": "0.8.3",
+  "description": "Lightweight, easy to use, client-side data grid",
+  "main": "griddl.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Glenn Britting (https://github.com/gbritting)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gbritting/griddl.git"
+  },
+  "keywords": [
+	"griddl",
+	"grid"
+  ],
+  "bugs": {
+	"url": "https://github.com/gbritting/jasmine-jetbrains-live-templates/issues"
+  }
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}
