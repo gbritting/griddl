@@ -169,4 +169,10 @@ griddl.page(1) to refresh the grid with your new data.
  0.5.0 - 2012/10/03 Per page support
  0.5.1 - 2012/10/04 More demos, ascending and descending images, tweak some css
  0.6.0 - 2012/10/05 Create built-in pager and demo pages to support it
+ 0.7.0 - 2014/01/15 Searching support, auto-build columns, updated demos and readme
+ 0.8.0 - 2014/02/01 Bug fix when clearing search and pager bug. Add tests. Add minified version. Syntax highlighting
+                    through Prism in demos
+ 0.8.1 - 2014/02/01 Reorganize project, separate demo folder
+ 0.8.2 - 2014/02/01 Use grunt to concat, minify, and copying files to demo folder
+ 0.8.3 - 2014/02/02 Split main js file. JSDoc comments.
  *********************************************************************************************************************/

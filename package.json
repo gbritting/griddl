@@ -13,12 +13,12 @@
     "url": "git://github.com/gbritting/griddl.git"
   },
   "keywords": [
-	"griddl",
-	"grid"
+    "griddl",
+    "grid"
   ],
   "bugs": {
-	"url": "https://github.com/gbritting/jasmine-jetbrains-live-templates/issues"
-  }
+    "url": "https://github.com/gbritting/griddl/issues"
+  },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-contrib-concat": "~0.3.0",
